@@ -1,0 +1,19 @@
+{
+  "name": "Swifty Sports",
+  "short_name": "Swifty Sports",
+  "theme_color": "",
+  "background_color": "#2B2F34",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1774270074-favicon.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

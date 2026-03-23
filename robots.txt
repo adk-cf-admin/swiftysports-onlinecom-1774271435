@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://swiftysports-online.com/
+Sitemap: https://swiftysports-online.com/sitemap.xml
